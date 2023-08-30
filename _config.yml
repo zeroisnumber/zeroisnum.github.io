@@ -20,25 +20,24 @@ exclude:
   - Gemfile.lock
   - node_modules
 
-lang:                 en-US
-timezone:             Europe/London
+lang:                 ko-KR
+timezone:             Asia/Seoul
 
 keywords:
   - MultiDomainX
 
 author:               # This should be the same author as first entry in `_data/authors.yml`.
   name:               박영민
-  email:              zeroisnumber@Gmail.com
-  about:              "Software Developer"
+  email:              zeroisnum@Gmail.com
+  about:              "게임 개발자"
   picture:
     path:             /assets/img/ryvor.png
   social:
     github:           zeroisnumber
-    twitter:          _ryvor
-    email:            RSmith_20@outlook.com
+    email:            zeroisnum@Gmail.com
 github_username:      zeroisnumber
 
-copyright:            © zeroisnumber 2023. All rights reserved.
+copyright:            © zeroisnum 2023. All rights reserved.
 legal:                # Add links to the footer. Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
   - title:            Licenses
     url:              /Licenses/
@@ -59,8 +58,8 @@ accent_color:         rgb(50, 50, 56)
 theme_color:          rgb(25, 55, 71)
 logo:                 /assets/img//users/ryvor.png
 title:                "영민의 블로그"
-description:          "Game Developer"
-tagline:              "블로그를 만들어 봅니다."
+description:          "게임 개발자"
+tagline:              "개인 블로그 입니다."
 
 google_fonts:         Roboto+Slab:700|Noto+Sans:400,400i,700,700i
 font:                 system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Arial,sans-serif
@@ -198,8 +197,6 @@ webmaster_verifications:
 #  bing:               <verification-id> # Not Needed as verified through Google Search Console
 #  alexa:              <verification-id>
 #  yandex:             <verification-id>
-twitter:
-  username:           "_ryvor"
 
 # Plugin Configs
 # ---------------------------------------------------------------------------------------

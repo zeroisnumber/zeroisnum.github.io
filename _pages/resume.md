@@ -32,13 +32,14 @@ right_column:
  - awards
  - volunteer
  - languages
+ - language skills
  - skills
  - interests
 no_language_icons: false
 no_skill_icons:    false
 buttons:
-  print:           true
-  pdf:             /assets/resume/resume.pdf
-  vcf:             /assets/resume/resume.vcf
-  json:            /assets/resume/resume.json
+  #print:           true
+  pdf:              /assets/resume/resume.pdf
+  #vcf:             /assets/resume/resume.vcf
+  #json:            /assets/resume/resume.json
 ---

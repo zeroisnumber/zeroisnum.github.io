@@ -1,13 +1,14 @@
 author1:
   name:                박영민
-  email:               zeroisnumber@Gmail.com
+  email:               zeroisnum@Gmail.com
   about:               ""
   picture:
     path:              /assets/img/ryvor.png
   social:
     github:            zeroisnumber
-    twitter:           _ryvor
-    email:             RSmith_20@outlook.com
+    email:             zeroisnum@Gmail.com
+    notion:            https://www.notion.so/zeroisnum/011d8ca191f64c7085b366bf9e48c203
+    # twitter:           _ryvor
     # linkedin:        <username>
     # stackoverflow:   <number>
     # rss:             <url>
